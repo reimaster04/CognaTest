@@ -1,0 +1,7 @@
+resultados da configuração do ambiente pelo termianl powershell 
+PS C:\Reinaldo\Test_Data_Eng>  python -m venv env  
+PS C:\Reinaldo\Test_Data_Eng> .\env\Scripts\Activate.ps1
+(env) PS C:\Reinaldo\Test_Data_Eng> 
+PS C:\Reinaldo\Test\SQLSERVER> python.exe -m pip install --upgrade pip
+(env) PS C:\Reinaldo\Test_Data_Eng> pip install pandas
+PS C:\Reinaldo\Test\SQLSERVER> pip install psutil 

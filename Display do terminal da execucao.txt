@@ -1,0 +1,10 @@
+S C:\Reinaldo\Test\SQLSERVER> & c:/Reinaldo/Test/SQLSERVER/env/Scripts/python.exe c:/Reinaldo/Test/SQLSERVER/raw_read_csv_reinaldo_ribeiro.py
+Registros processados: 1000000, Uso de CPU: 12.0%, Uso de Memória: 50.0%, Tempo decorrido: 1.740190029144287 segundos
+Registros processados: 2000000, Uso de CPU: 8.7%, Uso de Memória: 50.0%, Tempo decorrido: 1.6943926811218262 segundos
+Registros processados: 3000000, Uso de CPU: 9.0%, Uso de Memória: 49.9%, Tempo decorrido: 1.6710002422332764 segundos
+Registros processados: 4000000, Uso de CPU: 9.2%, Uso de Memória: 50.0%, Tempo decorrido: 1.685377597808838 segundos
+Registros processados: 5000000, Uso de CPU: 9.2%, Uso de Memória: 50.0%, Tempo decorrido: 1.6724531650543213 segundos
+Produto mais vendido: ('Cereal', 'Offline')
+País e região com maior volume de vendas: ('Rwanda', 'Sub-Saharan Africa')
+Média de vendas mensais por produto: {'Baby Food': 4997.74202674006, 'Beverages': 5002.122450673684, 'Cereal': 5000.22024677573, 'Clothes': 5000.395843464942, 'Cosmetics': 4999.949713121485, 'Fruits': 4998.813372339516, 'Household': 5000.156137713726, 'Meat': 5001.806268536333, 'Office Supplies': 5001.435815767955, 'Personal Care': 4999.100218764459, 'Snacks': 5000.1021009531005, 'Vegetables': 4998.862794923892}
+PS C:\Reinaldo\Test\SQLSERVER> 
